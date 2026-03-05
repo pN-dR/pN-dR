@@ -8,4 +8,6 @@ I have been a coder for 5 years and have taken strong interest in the production
 
 
 <a href="https://www.kaggle.com/prndtr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1100&pause=1000&width=100&lines=kaggle" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a>
+
+
 <img src="https://static.vecteezy.com/system/resources/thumbnails/072/644/320/small_2x/striped-arrow-halftone-gradation-texture-gradient-transition-lattice-black-triangle-gradation-line-background-png.png" width="500" height="50">
