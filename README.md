@@ -6,4 +6,7 @@ I have been a coder for 5 years and have taken strong interest in the production
 -  I’m currently learning advanced OOP, automata
 -  I’m looking to collaborate on projects mainly using python.
 
-![alt text](https://www.kaggle.com/static/images/logos/kaggle-logo-gray.svg)
+
+<a href="https://www.kaggle.com/prndtr">
+  <img src="https://simpleicons.org/icons/kaggle.svg" alt="Kaggle" width="40" height="40">
+</a>
