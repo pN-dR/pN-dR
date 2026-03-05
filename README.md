@@ -8,5 +8,5 @@ I have been a coder for 5 years and have taken strong interest in the production
 
 
 <a href="https://www.kaggle.com/prndtr">
-  <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray.svg" alt="Kaggle" width="40" height="40">
+  <img src="https://icons8.com/icon/Omk4fWoSmCHm/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo" alt="Kaggle" width="40" height="40">
 </a>
