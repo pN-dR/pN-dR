@@ -13,4 +13,5 @@ I have been a coder for 5 years and have taken strong interest in the production
 
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width = "50" height = "50" />
 <img align= "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width = "50" height = "50" />
-           
+<img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+          
