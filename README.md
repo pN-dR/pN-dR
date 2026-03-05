@@ -10,4 +10,6 @@ I have been a coder for 5 years and have taken strong interest in the production
 <a href="https://www.kaggle.com/prndtr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1100&pause=1000&width=100&lines=kaggle" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a>
 
 
-<script src="https://cdn.jsdelivr.net/npm/python@0.0.4/lib/python.min.js"></script>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+          
