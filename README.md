@@ -15,6 +15,5 @@ I have been a coder for 5 years and have taken strong interest in the production
           
 
 
-
-<i class="devicon-python-plain colored"></i>
-          
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+                    
