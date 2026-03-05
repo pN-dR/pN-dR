@@ -5,3 +5,5 @@ I have been a coder for 5 years and have taken strong interest in the production
 -  I’m currently working on training data in python, and advanced OOP in Java. 
 -  I’m currently learning advanced OOP, automata
 -  I’m looking to collaborate on projects mainly using python.
+
+![alt text](https://www.kaggle.com/static/images/logos/kaggle-logo-gray.svg)
