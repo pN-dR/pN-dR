@@ -9,6 +9,6 @@ I have been a coder for 5 years and have taken strong interest in the production
 
 <p align="left">
   <a href="https://www.kaggle.com/YOUR_USERNAME">
-    <img src="https://simpleicons.org/icons/kaggle.svg?color=ffffff" alt="Kaggle" width="80">
+    <img src="https://simpleicons.org/icons/kaggle.svg?color=20BEFF" alt="Kaggle" width="80">
   </a>
 </p>
