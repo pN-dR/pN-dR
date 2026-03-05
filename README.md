@@ -8,3 +8,5 @@ I have been a coder for 5 years and have taken strong interest in the production
 
 
 <a href="https://www.kaggle.com/prndtr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1100&pause=1000&width=100&lines=kaggle" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a>
+
+<img src="https://imgs.search.brave.com/WwGCLet_1oB5rEi5LqOM04MyRQtzWtw2pU5ycQJqmRM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNzIv/NjQ0LzMyMC9zbWFs/bC9zdHJpcGVkLWFy/cm93LWhhbGZ0b25l/LWdyYWRhdGlvbi10/ZXh0dXJlLWdyYWRp/ZW50LXRyYW5zaXRp/b24tbGF0dGljZS1i/bGFjay10cmlhbmds/ZS1ncmFkYXRpb24t/bGluZS1iYWNrZ3Jv/dW5kLXBuZy5wbmc" />
