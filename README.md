@@ -7,4 +7,4 @@ I have been a coder for 5 years and have taken strong interest in the production
 -  I’m looking to collaborate on projects mainly using python.
 
 
-<a href="https://www.kaggle.com/prndtr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=100&lines=kaggle" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a>
+<a href="https://www.kaggle.com/prndtr"><img src="https://readme-typing-svg.demolab.com?font=Arial+Code&pause=1000&width=100&lines=kaggle" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a>
