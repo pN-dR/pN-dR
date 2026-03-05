@@ -15,4 +15,4 @@ I have been a coder for 5 years and have taken strong interest in the production
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width = "50" height = "50"/>
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width = "50" height = "50"/>
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width = "50" height = "50"/>     
-<img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width = "50" height = "50"/>  
+<img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width = "50" height = "50"/>  
