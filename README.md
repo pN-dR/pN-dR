@@ -8,5 +8,3 @@ I have been a coder for 5 years and have taken strong interest in the production
 
 
 <a href="https://www.kaggle.com/prndtr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1100&pause=1000&width=100&lines=kaggle" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a>
-
-![Banner](https://raw.githubusercontent.com/pN-dR/pN-dR/main/banner.png)
