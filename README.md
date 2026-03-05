@@ -8,7 +8,5 @@ I have been a coder for 5 years and have taken strong interest in the production
 
 
 <p align="left">
-  <a href="https://www.kaggle.com/prndtr">
-    <img src="https://simpleicons.org/icons/kaggle.svg?color=20BEFF" alt="Kaggle" width="80">
-  </a>
+    <a href="https://www.kaggle.com/prndtr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=kaggle" alt="Typing SVG" /></a>
 </p>
