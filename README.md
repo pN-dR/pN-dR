@@ -8,9 +8,9 @@
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width = "50" height = "50"/>
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width = "50" height = "50"/>
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width = "50" height = "50"/>     
-<img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain.svg" width = "50" height = "50"/>  
+<img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain.svg" width = "50" height = "50"/>
 
-
+<br>
 
 # 💫 About Me:
 Hello 👋<br>I have been a coder for 5+ years and have taken strong interest in the production of AI models, automation machines, game development and more. I commit my time in learning new, powerful technologies that will make big differences in the future.<br><br>I’m currently working on training data in python, and advanced OOP in Java.<br>I’m currently learning automatons.<br>I’m looking to collaborate on projects mainly using python.
