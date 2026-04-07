@@ -1,10 +1,3 @@
-# Hello 👋
-
-I have been a coder for 5+ years and have taken strong interest in the production of AI models, automation machines, game development and more. I commit my time in learning new, powerful technologies that will make big differences in the future. 
-
--  I’m currently working on training data in python, and advanced OOP in Java. 
--  I’m currently learning automatons.
--  I’m looking to collaborate on projects mainly using python.
 
 
 <a href="https://www.kaggle.com/prndtr"><img align = "left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1100&pause=1000&width=100&lines=kaggle" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a>
